@@ -7,5 +7,5 @@ I'm Basile and I'm a fullstack web developer from Brussels. I actually work with
 🚀 entrepreneurial spirit<br/>
 
 ## get In touch
-Linkedin : https://www.linkedin.com/in/basileraiwet
+Linkedin : https://www.linkedin.com/in/basileraiwet <br/>
 Twitter : https://twitter.com/basileraiwet
