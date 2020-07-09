@@ -3,9 +3,7 @@ I'm Basile and I'm a fullstack web developer from Brussels. I actually work with
 
 ## Values and strengths
 📚 Hard learner and curiosity (about... pretty much everything)
-***
 🧠 open-minded
-***
 🚀 entrepreneurial spirit 
 
 ## get In touch
