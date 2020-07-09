@@ -1,4 +1,4 @@
-![ho hi mark](https://www.safersociety.com/wp-content/uploads/2018/04/Gif-animation-hello.gif)
+![ho hi mark](https://www.jstips.co/assets/images/jstips-animation.gif)
 # Hi there 👋
 I'm Basile and I'm a fullstack web developer from Brussels. I actually work with React and Node.js after a 6 month bootcamp at the [WildCodeSchool](https://www.wildcodeschool.com) and serval years of experience as a web integrator.
 
