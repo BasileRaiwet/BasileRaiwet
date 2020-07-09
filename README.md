@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+I'm Basile and I'm a fullstack web developer from Brussels. I actually work with React and Node.js after a 6 month bootcamp at the [WildCodeSchool](https://www.wildcodeschool.com) and serval years of experience as a web integrator.
 
-<!--
-**BasileRaiwet/BasileRaiwet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Values and strengths
+📚 Hard learner and curiosity (about... pretty much everything)
+***
+🧠 open-minded
+***
+🚀 entrepreneurial spirit 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## get In touch
+Linkedin : https://www.linkedin.com/in/basileraiwet
+Twitter : https://twitter.com/basileraiwet
