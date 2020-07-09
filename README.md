@@ -1,4 +1,4 @@
-![ho hi mark](https://www.jstips.co/assets/images/jstips-animation.gif)
+![ho hi mark](https://miro.medium.com/max/1800/1*6-xhHQ66MVyfuWw5OjuAlw.gif)
 # Hi there 👋
 I'm Basile and I'm a fullstack web developer from Brussels. I actually work with React and Node.js after a 6 month bootcamp at the [WildCodeSchool](https://www.wildcodeschool.com) and serval years of experience as a web integrator.
 
