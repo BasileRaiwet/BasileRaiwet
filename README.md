@@ -1,5 +1,6 @@
 # Hi there 👋
-I'm Basile and I'm a fullstack web developer from Brussels. I actually work with React and Node.js after a 6 month bootcamp at the [WildCodeSchool](https://www.wildcodeschool.com) and serval years of experience as a web integrator.
+I'm Basile and I'm a fullstack web developer from Brussels. I actually work with React for medium to large scale projects.
+I also develop fullstack web applications using MERN stack.
 
 ## Values and strengths
 > “Your time is limited, so don’t waste it living someone else’s life. <br/>
