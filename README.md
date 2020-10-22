@@ -12,5 +12,5 @@ I also develop fullstack web applications using MERN stack.
 🚀 entrepreneurial spirit<br/>
 
 ## get In touch
-[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/basileraiwet/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/Basile%20Raiwet-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/basileraiwet/ "Connect on LinkedIn")
 Twitter : https://twitter.com/basileraiwet
