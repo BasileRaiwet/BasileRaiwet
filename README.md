@@ -13,4 +13,4 @@ I also develop fullstack web applications using MERN stack.
 
 ## get In touch
 [![Linkedin Badge](https://img.shields.io/badge/Basile%20Raiwet-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/basileraiwet/ "Connect on LinkedIn")
-Twitter : https://twitter.com/basileraiwet
+[![Twitter Badge](https://img.shields.io/badge/-@BasileRaiwet-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=BasileRaiwet "Follow on Twitter")
