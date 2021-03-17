@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Basile and I'm a fullstack web developer from Brussels. I'm actually doing stuff with React at [Vox Teneo](https://www.voxteneo.com/) on medium to large scale projects. I've a deep interest about everything who improve the user experience ( recent web app technologies such as next or gatsby / accessibility / SEO / web animations ).
+I'm Basile and I'm a fullstack web developer from Brussels 🇧🇪. I'm actually doing stuff with React at [Vox Teneo](https://www.voxteneo.com/), working on medium to large scale web applications. I've a deep interest about everything who improve the user experience ( recent web app technologies such as next or gatsby / accessibility / SEO / web animations).
 
 ## Values and strengths
 > “Your time is limited, so don’t waste it living someone else’s life. <br/>
