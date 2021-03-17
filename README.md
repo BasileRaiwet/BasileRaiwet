@@ -1,6 +1,5 @@
 # Hi there 👋
-I'm Basile and I'm a fullstack web developer from Brussels. I actually work with React for medium to large scale projects.
-I also develop fullstack web applications using MERN stack.
+I'm Basile and I'm a fullstack web developer from Brussels. I'm actually doing stuff with React at [Vox Teneo](https://www.voxteneo.com/) on medium to large scale projects. I've a deep interest about everything who improve the user experience ( recent web app technologies such as next or gatsby / accessibility / SEO / web animations ).
 
 ## Values and strengths
 > “Your time is limited, so don’t waste it living someone else’s life. <br/>
@@ -13,4 +12,3 @@ I also develop fullstack web applications using MERN stack.
 
 ## get In touch
 [![Linkedin Badge](https://img.shields.io/badge/Basile%20Raiwet-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/basileraiwet/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@BasileRaiwet-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=BasileRaiwet "Follow on Twitter")
