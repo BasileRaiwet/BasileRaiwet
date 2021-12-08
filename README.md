@@ -10,5 +10,12 @@ I'm Basile and I'm a fullstack web developer from Belgium 🇧🇪. I'm actually
 🧠 open-minded<br/>
 🚀 entrepreneurial spirit<br/>
 
+<br>
+## Expertise
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+
+<br><br>
+
 ## get In touch
 [![Linkedin Badge](https://img.shields.io/badge/Basile%20Raiwet-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/basileraiwet/ "Connect on LinkedIn")
