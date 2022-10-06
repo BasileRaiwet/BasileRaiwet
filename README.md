@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Basile and I'm a fullstack web developer from Belgium 🇧🇪. Uctually doing stuff with Svelte at [Decathlon Belgium](https://www.decathlon.be/)
+I'm Basile and I'm a fullstack web developer from Belgium 🇧🇪. Actually doing stuff with Svelte at [Decathlon Belgium](https://www.decathlon.be/)
 
 ## Values and strengths
 > “Your time is limited, so don’t waste it living someone else’s life. <br/>
