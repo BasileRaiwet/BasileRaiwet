@@ -6,9 +6,8 @@ I'm Basile and I'm a fullstack web developer from Belgium 🇧🇪. Actually doi
 > Don’t let the noise of others’ opinions drown out your own inner voice. <br/>
 > Have the courage to follow your heart and intuition. They somehow already know what you truly want to become.”
 
-📚 Hard learner and curious (about... pretty much everything)<br/>
+📚 Hard learner and curious (about pretty much everything)<br/>
 🧠 open-minded<br/>
-🚀 entrepreneurial spirit<br/>
 
 <br>
 
