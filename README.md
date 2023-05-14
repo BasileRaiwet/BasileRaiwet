@@ -1,16 +1,11 @@
-Hi 👋 My name is Basile
+Hello there 👋
 =======================
 
-I'm a fullstack web developer from Belgium 🇧🇪. Actually doing stuff with Svelte at [Decathlon Belgium](https://www.decathlon.be/)
+I’m Basile, a full-stack web developer hailing from the beautiful country of Belgium 🇧🇪. Currently, I’m working with Svelte.js at [Decathlon Belgium](https://www.decathlon.be/), where I’m always striving to contribute to making sports accessible for the many.
 
-## Values and strengths
 > “Your time is limited, so don’t waste it living someone else’s life. <br/>
 > Don’t let the noise of others’ opinions drown out your own inner voice. <br/>
 > Have the courage to follow your heart and intuition. They somehow already know what you truly want to become.”
-
-📚 Hard learner and curious (about pretty much everything)<br/>
-🧠 open-minded<br/>
-
 
 ### Skills
 
