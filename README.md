@@ -11,9 +11,8 @@ I'm a passionate software engineer specializing in JavaScript, currently working
 
 ## 📫 Connect with Me
 
--  [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
--  [Twitter](https://twitter.com/yourtwitterhandle)
--  [Email](mailto:youremail@example.com)
+-  [LinkedIn](https://www.linkedin.com/in/basileraiwet/)
+-  [Email](mailto:basileraiwet.pro@gmail.com)
 
 ---
 
